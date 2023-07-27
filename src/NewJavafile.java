@@ -6,6 +6,8 @@ public class NewJavafile {
 		
 		// New Java file changes done
 
+		
+		System.out.println("Newjavafile");
 	}
 
 }
